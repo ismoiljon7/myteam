@@ -256,16 +256,16 @@ main {
 /* teams end */
 
 /* story start */
-.story {
+.offer {
   background-color: #004047;
 }
-.story-container {
+.offer-container {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.story-title {
+.offer-title {
   margin-top: 140px;
   margin-bottom: 56px;
   color: #ffffff;
@@ -277,16 +277,16 @@ main {
 .blue-text {
   color: #79c8c7;
 }
-.story-list {
+.offer-list {
   display: flex;
   align-items: center;
   gap: 30px;
 }
-.story-description {
+.offer-description {
   color: #ffffff;
   margin-bottom: 24px;
 }
-.story-owner {
+.offer-owner {
   margin-bottom: 2px;
   color: #79c8c7;
   font-size: 18px;
@@ -305,6 +305,6 @@ main {
   height: 62px;
 }
 
-/* story end */
+/* offer end */
 
 /* main end*/
