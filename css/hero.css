@@ -1,0 +1,36 @@
+/* hero start  */
+
+.hero {
+  padding-top: 56px;
+  background-color: #014e56;
+  color: #ffffff;
+  padding-bottom: 250px;
+  background-image: url("../images/hero-left.png"), url("../images/hero-rb.svg");
+  background-repeat: no-repeat;
+  background-position: left -100px top 130px, right 165px bottom -100px;
+}
+.hero-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero-divider {
+  margin-bottom: 79px;
+}
+
+.hero-title {
+  font-size: 100px;
+  line-height: 100px;
+  width: 535px;
+}
+
+.hero-description {
+  width: 100%;
+  max-width: 445px;
+}
+
+.hero-description-text {
+  font-size: 18px;
+  line-height: 28px;
+}
+/* hero end */

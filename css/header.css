@@ -1,0 +1,46 @@
+/* header start */
+.header {
+  background-color: #014e56;
+  padding-top: 73px;
+  padding-bottom: 73px;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  margin-right: 80px;
+  color: #ffffff;
+}
+
+.header-logo-image:hover {
+  opacity: 0.8;
+  transition: 0.3s;
+}
+
+.header-logo-image:active {
+  opacity: 0.3;
+}
+
+.sitenav {
+  margin-right: auto;
+}
+.sitenav-list {
+  display: flex;
+  gap: 40px;
+}
+
+.sitenav-link {
+  color: #ffffff;
+}
+
+.sitenav-link:hover {
+  color: #f67e7e;
+}
+
+.sitenav-link:active {
+  opacity: 0.7;
+}
+
+/* header end */
